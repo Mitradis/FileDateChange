@@ -1,0 +1,7 @@
+C:\Build\FileDateChange\FileDateChange\bin\Release\FileDateChange.exe.config
+C:\Build\FileDateChange\FileDateChange\bin\Release\FileDateChange.exe
+C:\Build\FileDateChange\FileDateChange\bin\Release\FileDateChange.pdb
+C:\Build\FileDateChange\FileDateChange\obj\Release\FileDateChange.FormMain.resources
+C:\Build\FileDateChange\FileDateChange\obj\Release\FileDateChange.csproj.GenerateResource.Cache
+C:\Build\FileDateChange\FileDateChange\obj\Release\FileDateChange.exe
+C:\Build\FileDateChange\FileDateChange\obj\Release\FileDateChange.pdb
