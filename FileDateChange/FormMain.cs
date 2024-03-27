@@ -21,7 +21,7 @@ namespace FileDateChange
             {
                 listBox1.Items.AddRange(openFileDialog1.FileNames);
                 button2.Enabled = true;
-                Text = "File Date Change " + "(" + listBox1.Items.Count.ToString() + ")";
+                Text = "File Date Change " + "(" + listBox1.Items.Count + ")";
             }
         }
 
@@ -140,7 +140,7 @@ namespace FileDateChange
                 }
             }
             button2.Enabled = true;
-            Text = "File Date Change " + "(" + listBox1.Items.Count.ToString() + ")";
+            Text = "File Date Change " + "(" + listBox1.Items.Count + ")";
         }
 
         void listBox1_DragEnter(object sender, DragEventArgs e)
